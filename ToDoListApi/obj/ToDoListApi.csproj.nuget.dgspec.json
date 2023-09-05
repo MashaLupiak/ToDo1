@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\ToDoListApi.csproj": {}
+    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\ToDoListApi.csproj": {
+    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\ToDoListApi.csproj",
+        "projectUniqueName": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj",
         "projectName": "ToDoListApi",
-        "projectPath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\ToDoListApi.csproj",
+        "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj",
         "packagesPath": "C:\\Users\\Masha Lupiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\obj\\",
+        "outputPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\ToDoList.csproj": {
-                "projectPath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\ToDoList.csproj"
+              "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj": {
+                "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\ToDoList.csproj": {
+    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Masha Lupiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDo\\obj\\",
+        "outputPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

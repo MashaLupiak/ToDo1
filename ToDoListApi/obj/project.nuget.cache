@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQ8MFTz9hG0HbPfqF9ITe/GWp3JiFiwNPJBIrb258/RhTWZDOeBR/YOuZxjh4UzvmyiXmN2D0rvHCGaV+Ps64Q==",
+  "dgSpecHash": "uI/s1QfTLTTmQLCeG3Q3F+AgqwtMjGmaRlloPPBUNAV++9BW7X5sMqbCbTs8p/23eG1QuxLwTnsD7aUaTK2HEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Masha Lupiak\\Desktop\\ToDo1\\ToDoListApi\\ToDoListApi.csproj",
+  "projectFilePath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Masha Lupiak\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Masha Lupiak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
