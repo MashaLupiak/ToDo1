@@ -49,8 +49,6 @@ namespace ToDoList.Pages.ToDoListCRUD
             return Page();
         }
 
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
@@ -58,27 +56,17 @@ namespace ToDoList.Pages.ToDoListCRUD
                 return Page();
             }
 
-            _context.Attach(ToDoItem).State = EntityState.Modified;
+            var response = await _httpClient.PutAsJsonAsync("https://localhost:7044/api/Item/UpdateItem", ToDoItem);
 
-            try
+            if (response.IsSuccessStatusCode)
             {
-                await _context.SaveChangesAsync();
+                return RedirectToPage("./Index");
             }
-            catch (DbUpdateConcurrencyException)
+            else
             {
-                if (!ToDoItemExists(ToDoItem.Id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
+                ModelState.AddModelError(string.Empty, "Помилка при оновленні даних.");
+                return Page();
             }
-            var content = new StringContent(System.Text.Json.JsonSerializer.Serialize(ToDoItem), Encoding.UTF8, "application/json");
-            var response = await _httpClient.PutAsync("https://localhost:7044/api/Item/UpdateItem", content);
-
-            return RedirectToPage("./Index");
         }
 
         private bool ToDoItemExists(int id)

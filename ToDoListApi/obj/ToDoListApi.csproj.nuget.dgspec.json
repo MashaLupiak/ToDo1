@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj": {}
+    "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDoListApi\\ToDoListApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj": {
+    "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDoListApi\\ToDoListApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj",
+        "projectUniqueName": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDoListApi\\ToDoListApi.csproj",
         "projectName": "ToDoListApi",
-        "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\ToDoListApi.csproj",
-        "packagesPath": "C:\\Users\\Masha Lupiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDoListApi\\obj\\",
+        "projectPath": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDoListApi\\ToDoListApi.csproj",
+        "packagesPath": "C:\\Users\\MaxFo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDoListApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Masha Lupiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MaxFo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,14 +27,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj": {
-                "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj"
+              "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\ToDoList.csproj": {
+                "projectPath": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\ToDoList.csproj"
               }
             }
           }
@@ -88,25 +88,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj": {
+    "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\ToDoList.csproj",
-        "packagesPath": "C:\\Users\\Masha Lupiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Masha Lupiak\\source\\repos\\github\\ToDo\\ToDo\\obj\\",
+        "projectPath": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\MaxFo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MaxFo\\source\\repos\\ToDo1\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Masha Lupiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MaxFo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -116,6 +115,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -184,7 +184,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
